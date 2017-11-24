@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connect MLA</string>
+    <string name="a1"><u>Address</u></string>
+    <string name="a2"><u>Email</u></string>
+    <string name="a3"><u>Phone Number</u></string>
+    <string name="a4"><u>Statistics</u></string>
+</resources>
